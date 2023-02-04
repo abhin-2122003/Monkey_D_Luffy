@@ -5,10 +5,6 @@ body {
   background-color: #202125;
   font-family: "Lucida Console", "Courier New", monospace;
 }
-@media screen and (max-width: 800px) {
-  #container {
-    height: 100%;
-    margin-left: 0%;}
 nav {
   position: fixed;
   background-color: rgba(14, 14, 19, 0.671);
@@ -63,7 +59,9 @@ div1 {
   height: 100%;
   width: 100%;
 }
-/*for phone..................................*/
+
+
+/* for phone */
 @media screen and (max-width: 800px) {
   body {
     margin: 0px;
