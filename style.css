@@ -59,7 +59,9 @@ div1 {
   height: 100%;
   width: 100%;
 }
-/*for phone..................................*/
+
+
+/* for phone */
 @media screen and (max-width: 800px) {
   body {
     margin: 0px;
