@@ -61,6 +61,7 @@ div1 {
 }
 
 
+
 /* for phone */
 @media screen and (max-width: 800px) {
   body {
@@ -113,7 +114,7 @@ div1 {
     height: 300px;
   }
   #div2 {
-    margin-top: 75px;
+    margin-top: 40px;
     width: 100%;
   }
   #mdl {
